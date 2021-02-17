@@ -16,8 +16,7 @@ body {background-color: black;}
     animation-direction: alternate;
 	margin: auto;
 	padding-top: 50px;
-	display: flex;
-	width: 100%;}
+	display: flex;}
 
 nav.main_nav {
 	color: white;
